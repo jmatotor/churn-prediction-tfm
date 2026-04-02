@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesus/Desktop/MASTER/churn-prediction-tfm/mlruns/407303459918628692/21796952a2f44776a592bad54a8daaff/artifacts
+end_time: 1775158899737
+entry_point_name: ''
+experiment_id: '407303459918628692'
+lifecycle_stage: active
+run_id: 21796952a2f44776a592bad54a8daaff
+run_name: xgboost_optuna
+run_uuid: 21796952a2f44776a592bad54a8daaff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775158895816
+status: 3
+tags: []
+user_id: jesus
