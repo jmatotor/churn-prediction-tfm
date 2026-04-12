@@ -70,7 +70,7 @@ churn-prediction-tfm/
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/churn-prediction-tfm
+git clone https://github.com/jmatotor/churn-prediction-tfm
 cd churn-prediction-tfm
 pip install -r requirements.txt
 ```
