@@ -1,0 +1,6 @@
+experimento,n_features,roc_auc,avg_precision,f1,precision,recall
+03_no_derived,22,0.8485,0.6636,0.6375,0.5301,0.7995
+05_no_total_charges,27,0.8475,0.66,0.633,0.5287,0.7888
+02_no_redundant,27,0.8474,0.6572,0.6328,0.5308,0.7834
+01_baseline,28,0.8473,0.6609,0.6389,0.532,0.7995
+04_top_shap_only,10,0.8417,0.6517,0.6227,0.5227,0.7701

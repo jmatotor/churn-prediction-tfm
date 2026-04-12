@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesus/Desktop/MASTER/churn-prediction-tfm/mlruns/734863432783549549/763d067c2c3042adb7d3787b0e91cdca/artifacts
+end_time: 1776017376403
+entry_point_name: ''
+experiment_id: '734863432783549549'
+lifecycle_stage: active
+run_id: 763d067c2c3042adb7d3787b0e91cdca
+run_name: 05_no_total_charges
+run_uuid: 763d067c2c3042adb7d3787b0e91cdca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776017376279
+status: 3
+tags: []
+user_id: jesus
