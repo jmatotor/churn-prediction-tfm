@@ -168,12 +168,12 @@ Experimentos disponibles:
 
 ## Resultados
 
-| Modelo | ROC-AUC | F1 | Recall |
-|---|---|---|---|
-| XGBoost (ganador) | 0.847 | 0.639 | 0.800 |
-| LightGBM | — | — | — |
-| Random Forest | — | — | — |
-| Logistic Regression | — | — | — |
+| Modelo | ROC-AUC | Avg Precision | F1 | Recall |
+|---|---|---|---|---|
+| XGBoost (ganador) | 0.8473 | 0.6609 | 0.6389 | 0.7995 |
+| LightGBM | 0.8453 | 0.6455 | 0.6278 | 0.7487 |
+| Random Forest | 0.8461 | 0.6569 | 0.6344 | 0.7888 |
+| Logistic Regression | 0.847 | 0.6657 | 0.6294 | 0.7968 |
 
 *Completar con los resultados reales del pipeline 04.*
 
